@@ -1,0 +1,23 @@
+{
+  "name": "smart-spider",
+  "version": "1.0.0",
+  "description": "NodeJS Web spider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louis-wanggg/smart-spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louis-wanggg/smart-spider/issues"
+  },
+  "homepage": "https://github.com/Louis-wanggg/smart-spider#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
